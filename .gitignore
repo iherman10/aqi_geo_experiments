@@ -2,3 +2,4 @@
 *.parquet
 .DS_Store
 data/health_outcomes/
+data/
